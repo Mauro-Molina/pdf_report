@@ -1,0 +1,87 @@
+*, body{
+    margin: 0;
+    padding: 0;
+    border: 0 !important; 
+}
+
+@page {
+    margin: 0;
+    padding: 0;
+    border: 0 !important; 
+}
+
+.header-image{
+    width: 150% !important;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.d-flex {
+    /* display: flex; */
+    width: 100%;
+    /* display: inline-blocnk; */
+}
+
+.info-product-container {
+    width:100% !important;
+}
+
+.imagen-container {
+    width: 80%;
+}
+
+.mt-5 {
+    margin-top: 30px;
+}
+
+.product-image {
+    width:200px;
+    object-position: center;
+    object-fit: cover !important;
+}
+
+.title {
+    background: #000;
+    font-size: 20px;
+    color: #fff;
+    padding:5px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.short-description {
+    width: 100%;
+}
+
+.tab-label {
+    font-weight: bold;
+}
+
+ul {
+    margin-bottom: 20px;
+}
+
+.tab-content {
+    margin-bottom: 10px;
+}
+
+.code {
+    margin-bottom: 12px;
+}
+
+.table-principal table {
+    width: 30%;
+    text-align: start !important;
+}
+
+.table-principal table th {
+    text-align: left !important;
+}
+
+.caracteristicas-table th, .caracteristicas-table td {
+    width: 100% !important;
+}
